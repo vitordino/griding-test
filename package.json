@@ -1,8 +1,9 @@
 {
-  "name": "zzz",
+  "name": "griding-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "griding": "^0.0.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"
